@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProLang INFO</string>
+    <string name="name_prolang">Nama Bahasa Pemprogaman</string>
+    <string name="detail_prolang">Keterangan</string>
+    <string name="about_me">About Developer</string>
+    <string name="about_app">About App</string>
+    <string name="name">MUHAMMAD FAUZI MAULANA</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="kampus">Universitas Mercu Buana Jakarta</string>
+    <string name="email">muhammadfauzi1933@gmail.com</string>
+    <string name="back">HOME</string>
+
+    <string name="java">Java</string>
+    <string name="java_detail1">Java merupakan bahasa pemrograman yang dapat dijalankan di berbagai platform, dari mulai PC sampai perangkat mobile. Bahasa pemrograman ini awalnya dikembangkan pada The Green Project pada tahun 1991 oleh Sun Microsystem yang kemudian dilepas pada Oracle. Nama Java sendiri dipilih karena salah seorang pendiri Java, James Gosling, sangat menyukai kopi murni yang langsung digiling dari mesin giling (kopi tubruk) dimana kopi jenis ini berasal dari pulau Jawa di Indonesia.</string>
+    <string name="java_detail2">Java menjadi salah satu bahasa pemrograman terpopuler bukan karena tanpa alasan, bahasa pemrograman ini memiliki beberapa kelebihan seperti misalnya bisa berjalan di sistem operasi yang berbeda-beda, kemudian bahasa pemrograman ini termasuk kedalam pemrograman OOP (pemrograman orientasi objek) sehingga programer lebih mudah dalam menyusun program menggunakan bahasa ini, selain itu bahasa ini juga memiliki library yang lengkap sehingga akan sangat memudahkan programer. Dan saat ini merupakan era dimana smartphone Android sangat banyak digunakan. Aplikasi dalam smartphone Android dibangun menggunakan bahasa Java, sehingga banyak juga programer-programer yang menggunakan bahasa ini karena memang sedang banyak dibutuhkan.</string>
+
+    <string name="nama">NAMA</string>
+    <string name="ya">Bahasa Pemprogaman</string>
+    <string name="detil">Detail</string>
+    <string name="oleh">Application by</string>
+
+    <string name="pro">Programming Language INFO</string>
+    <string name="ddd">PROLANG INFO (Programming Language INFO) adalah Aplikasi yang menyediakan Informasi mengenai berbagai macam Bahasa Pemprogaman yang ada. Tujuan pembuatan aplikasi ini adalah untuk menuntaskan KELAS MEMBUAT APLIKASI ANDROID UNTUK PEMULA di Dicoding.</string>
+    <string name="semoga">Semoga Bermanfaat yaa ;)</string>
+    <string name="thanks">Terima Kasih</string>
+</resources>
